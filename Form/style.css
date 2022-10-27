@@ -1,0 +1,26 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color:#b92d5d
+}
+h2{
+  text-align:center;
+}
+
+button{
+  background-: white;
+  color: black;
+  padding:10px 30px;
+  border:none;
+  height:30px;
+  text-align:center;
+  margin:auto;
+}
+.strong{
+  margin-top:50px;
+}
+  
+
+
+
+ 
