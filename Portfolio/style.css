@@ -1,0 +1,30 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+nav{
+text-align:center;
+height: 100px;
+background-color: #96d35f;
+margin:0;
+padding:0.5rem;
+
+  
+}
+img{
+  padding:50px;
+  border-radius:80%;
+  text-align:right;
+  width: 20%;
+}
+section {
+	text-align: center;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+	padding: 2rem;
+	margin-bottom: 5rem;
+	border-radius:5px;
+}
+
+main {
+	padding: 1rem;
+}
